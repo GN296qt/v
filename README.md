@@ -1,2 +1,3 @@
-# v
-my first repo
+# apna coolege
+this is my first git repository
+
